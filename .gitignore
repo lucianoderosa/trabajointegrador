@@ -1,0 +1,11 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/trabajo practico integrador.sln
+/trabajo practico integrador/fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf
+/trabajo practico integrador/trabajo practico integrador.vcxproj
+/trabajo practico integrador/trabajo practico integrador.vcxproj.filters
+/trabajo practico integrador/trabajo practico integrador.vcxproj
+/trabajo practico integrador/trabajo practico integrador.vcxproj.filters
+/trabajo practico integrador/fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf
